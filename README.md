@@ -4,3 +4,5 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
