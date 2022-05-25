@@ -9,6 +9,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NahianShabab&layout=compact&langs_count=6)  
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NahianShabab)](https://git.io/streak-stats)  
 
 
