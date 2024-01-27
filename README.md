@@ -11,12 +11,18 @@
 # Hi, I'm Nahian Shabab
 
 ## I'm Interested in:
-
-- Full Stack Software Development
 - Machine Learning
+- Full Stack Software Development
 - Game Development
 
 ## My Skills:
+
+### Machine Learning
+[![PyTorch Version](https://img.shields.io/badge/PyTorch-blue)](https://pytorch.org/)
+[![Pandas Version](https://img.shields.io/badge/Pandas-brightgreen)](https://pandas.pydata.org/)
+[![NumPy Version](https://img.shields.io/badge/NumPy-orange)](https://numpy.org/)
+
+
 
 ### Programming Languages:
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-darkgreen?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ed1c16?logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-purple?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Assembly](https://img.shields.io/badge/-Assembly-blue?logo=intel&logoColor=black)
