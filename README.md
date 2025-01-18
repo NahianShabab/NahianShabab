@@ -12,12 +12,12 @@
 ## My Projects:
 
 - **Perek (3D FPS Game)**  
-  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)]([https://www.youtube.com/](https://youtu.be/o402B_f8erI))
+  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/o402B_f8erI)
 - **Sentinel (Home Automation System)**  
   [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/zYojUbHhq8A) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)]([https://github.com/](https://github.com/NahianShabab/SENTINEL))
 
 - **TechShop (Online Electronics Shop)**  
-  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)]([https://www.youtube.com/](https://youtu.be/0UzYuVkBIMI)) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)]([https://github.com/](https://github.com/alfahadarc/TechShop))
+  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/0UzYuVkBIMI) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)]([https://github.com/](https://github.com/alfahadarc/TechShop))
 
 
 ## I'm Interested in:
