@@ -10,14 +10,13 @@
 
 # Hi, I'm Nahian Shabab
 ## My Projects:
-- <iframe frameborder="0" src="https://itch.io/embed/3346126" width="552" height="167"><a href="https://shondha-games.itch.io/imposter-hydraulics">Imposter Hydraulics by Shondha Games</a></iframe>
+- ![Game Logo](game_logo.png)
+  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/0UzYuVkBIMI) [![Itch.io](https://img.shields.io/badge/Itch.io-orange?logo=itch-dot-io&logoColor=white)](https://yourgame.itch.io/)
 - **Perek (3D FPS Game)**  
   [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/o402B_f8erI)
 - **Sentinel (Home Automation System)**  
   [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/zYojUbHhq8A) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/NahianShabab/SENTINEL)
 
-- **TechShop (Online Electronics Shop)**  
-  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/0UzYuVkBIMI) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/alfahadarc/TechShop)
 
 
 ## I'm Interested in:
