@@ -10,11 +10,12 @@
 
 # Hi, I'm Nahian Shabab
 ## My Projects:
-- ![Game Logo](game_logo.png)
-  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/0UzYuVkBIMI) [![Itch.io](https://img.shields.io/badge/Itch.io-orange?logo=itch-dot-io&logoColor=white)](https://yourgame.itch.io/)
-- **Perek (3D FPS Game)**  
-  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/o402B_f8erI)
-- **Sentinel (Home Automation System)**  
+**Imposter Hydraulics**<br>
+![Game Logo](game_logo_small.png)<br>
+  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=RBVTLn72Lcw&t=3s) [![Itch.io](https://img.shields.io/badge/Itch.io-orange?logo=itch-dot-io&logoColor=white)](https://shondha-games.itch.io/imposter-hydraulics)<br>
+**Perek (3D FPS Game)**  
+  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/o402B_f8erI)<br>
+ **Sentinel (Home Automation System)**  
   [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/zYojUbHhq8A) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/NahianShabab/SENTINEL)
 
 
