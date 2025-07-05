@@ -10,7 +10,7 @@
 
 # Hi, I'm Nahian Shabab
 ## My Projects:
-**Perek:** Retro Endless First Person Shooter <br>
+**Perek: (First Person Shooter)**  <br>
 <img src="cover_3.png" width="300">
 <br>
   [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=rr4Oi3QtAAw) [![Itch.io](https://img.shields.io/badge/Itch.io-orange?logo=itch-dot-io&logoColor=white)](https://shondha-games.itch.io/perek)<br>
