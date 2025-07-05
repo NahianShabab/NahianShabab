@@ -10,11 +10,13 @@
 
 # Hi, I'm Nahian Shabab
 ## My Projects:
-**Imposter Hydraulics (3D Game)** <br>
+**Perek:** Retro Endless First Person Shooter <br>
+<img src="cover_3.png" width="300">
+<br>
+  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=rr4Oi3QtAAw) [![Itch.io](https://img.shields.io/badge/Itch.io-orange?logo=itch-dot-io&logoColor=white)](https://shondha-games.itch.io/perek)<br>
+**Imposter Hydraulics (3D Puzzle Game)** <br>
 ![Game Logo](game_logo_small.png)<br>
-  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=RBVTLn72Lcw&t=3s) [![Itch.io](https://img.shields.io/badge/Itch.io-orange?logo=itch-dot-io&logoColor=white)](https://shondha-games.itch.io/imposter-hydraulics)<br>
-**Perek (3D FPS Game)**  
-  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/o402B_f8erI)<br>
+  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=RBVTLn72Lcw) [![Itch.io](https://img.shields.io/badge/Itch.io-orange?logo=itch-dot-io&logoColor=white)](https://shondha-games.itch.io/imposter-hydraulics)<br>
  **Sentinel (Home Automation System)**  
   [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/zYojUbHhq8A) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/NahianShabab/SENTINEL)<br>
 **TechShop (Online Electronics Shop)**  
