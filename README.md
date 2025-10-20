@@ -14,6 +14,10 @@
 <img src="cover_3.png" width="300">
 <br>
   [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=rr4Oi3QtAAw) [![Itch.io](https://img.shields.io/badge/Itch.io-orange?logo=itch-dot-io&logoColor=white)](https://shondha-games.itch.io/perek)<br>
+  **Flickers In The Forest: (Horror Walking Sim)**  <br>
+<img src="fforest.png" width="300">
+<br>
+[![Itch.io](https://img.shields.io/badge/Itch.io-orange?logo=itch-dot-io&logoColor=white)](https://shondha-games.itch.io/flickers-in-the-forest)<br>
 **Imposter Hydraulics (3D Puzzle Game)** <br>
 ![Game Logo](game_logo_small.png)<br>
   [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=RBVTLn72Lcw) [![Itch.io](https://img.shields.io/badge/Itch.io-orange?logo=itch-dot-io&logoColor=white)](https://shondha-games.itch.io/imposter-hydraulics)<br>
