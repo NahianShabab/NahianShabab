@@ -1,6 +1,6 @@
 # Hi, I'm Nahian Shabab
-## Education:  B.Sc. in Computer Science & Engineering
-## Software Engineer | Game Developer | Researcher
+#### Education:  B.Sc. in Computer Science & Engineering
+#### Software Engineer | Game Developer | Researcher
 ## My Projects:
 **Perek: (First Person Shooter)** <br>
 <img src="cover_3.png" width="300">
